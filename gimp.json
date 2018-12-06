@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "gimp",
+    "bundle": [ "GIMP-2.10.app", "GIMP.app" ],
+    "identifier": "org.gnome.gimp",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/GIMP.pkg.zip",
+    "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "2.10.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.gimp.org/"
+  }
+}
