@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "acc",
+    "bundle": "Install.app",
+    "identifier": "com.adobe.Install",
+    "download": "http://ccmdl.adobe.com/AdobeProducts/KCCC/1/osx10/ACCCx4_7_0_400.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.7.0.400",
+    "build": null,
+    "dir": "/private/tmp/ACC",
+    "symlink": null,
+    "web": "https://creative.adobe.com/products/creative-cloud"
+  }
+}
