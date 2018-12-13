@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "creativecloudinstaller",
+    "bundle": "Creative Cloud Installer.app",
+    "identifier": "com.adobe.Install",
+    "download": "https://ccmdls.adobe.com/AdobeProducts/KCCC/1/osx10/CreativeCloudInstaller.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.5.0.331",
+    "build": null,
+    "dir": "/private/tmp",
+    "symlink": null,
+    "web": "https://creative.adobe.com/products/creative-cloud"
+  }
+}
