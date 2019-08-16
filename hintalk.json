@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "hintalk",
+    "bundle": "HIN Talk.app",
+    "identifier": "de.vnc-uxf-portal.app",
+    "download": "https://basepackages.vnc.biz/electron/HIN%20Talk-1.2.1-40.dmg",
+    "sha256": "418e9b8a021816ea432d22b9ae9f5182ed9ebef2083c08f618c5191c59add6ea",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.2.1-40",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
